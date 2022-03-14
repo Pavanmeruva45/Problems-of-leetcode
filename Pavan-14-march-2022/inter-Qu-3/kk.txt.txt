@@ -1,0 +1,5 @@
+Explain React state and props.
+Explain about types of side effects in React component.
+ What is prop drilling in React?
+What are error boundaries?
+What is React Hooks?
